@@ -15,4 +15,15 @@ h1 {
     border: 1px solid #cccccc;
     flex: 1;
     text-align: center;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px #cccccc;
+}
+
+.san-pham h3 {
+    color: #8b0000;
+}
+
+.san-pham p {
+    color: #333333;
+    font-size: 18px;
 }
