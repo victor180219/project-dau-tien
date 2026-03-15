@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color: #333333;
+}
+
+.san-pham-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+}
+
+.san-pham {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #cccccc;
+    flex: 1;
+    text-align: center;
+}
