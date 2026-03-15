@@ -1,0 +1,30 @@
+h1{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    background-color: #333333;
+    padding: 20px;
+    margin: 30px;
+}
+.mota {
+    color:blue;
+    font-size: 18px;
+}
+
+#gioi-thieu {
+    color: orange;
+    font-size: 20px;
+    font-weight: bold;
+}
+h2 {
+    color: green;
+}
+body {
+    background-color: #f5f5f5;
+}
+a {
+    color: pink;
+}
+ul {
+    background-color: #e8f5e9;
+}
