@@ -27,3 +27,8 @@ h1 {
     color: #333333;
     font-size: 18px;
 }
+@media (max-width: 768px) {
+    .san-pham-container {
+        flex-direction: column;
+    }
+}
